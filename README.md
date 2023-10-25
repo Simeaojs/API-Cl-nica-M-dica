@@ -16,6 +16,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Flyway](https://flywaydb.org)**
 - **[Lombok](https://projectlombok.org)**
 - **[Spring Security](https://spring.io/projects/spring-security)**
+- **[Swagger](https://swagger.io/solutions/api-documentation/)**
 
 ---
 
