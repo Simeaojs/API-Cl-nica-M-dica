@@ -36,6 +36,7 @@ Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina lo
 - [x] Agendamento de consultas;
 - [x] Cancelamento de consultas;
 - [x] Autenticação e Autorização com Json Web Token.
+- [x] Testes Automatizados 
       
 
 ## 🎨 Layout
