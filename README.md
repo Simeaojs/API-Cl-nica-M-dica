@@ -24,7 +24,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina local, siga as etapas abaixo:
 
 1. Clone o repositório para o seu ambiente local.
-   -  git clone ``````
+   -  git clone ```https://github.com/Simeaojs/API-Clinica-Medica```
 2. Configure as dependências do projeto (Maven).
 3. Configure as informações do banco de dados no arquivo de configuração (`application.properties` ou `application.yml`).
 4. Execute a aplicação.
@@ -34,12 +34,6 @@ Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina lo
 ## 🎨 Layout
 
 O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
-
----
-
-## 📄 Documentação
-
-A documentação das funcionalidades da aplicação pode ser acessada neste link: <a href="https://trello.com/b/O0lGCsKb/api-voll-med">Trello</a>
 
 ---
 
