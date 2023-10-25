@@ -1,8 +1,7 @@
 ## 💻 Sobre o projeto
 
-Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+A API da Clínica Médica é um sistema de gerenciamento de informações médicas que oferece funcionalidades para criar, ler, atualizar e excluir registros de médicos, pacientes, agendamento de consultas e cancelamentos. Esta API é projetada para auxiliar na administração eficiente de uma clínica médica, permitindo o controle de informações essenciais com segurança e facilidade de uso.
 
-Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
 
 ---
 
