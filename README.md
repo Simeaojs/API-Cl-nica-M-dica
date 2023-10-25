@@ -10,7 +10,8 @@ A API da Clínica Médica é um sistema de gerenciamento de informações médic
 - [x] CRUD de médicos;
 - [x] CRUD de pacientes;
 - [x] Agendamento de consultas;
-- [x] Cancelamento de consultas.
+- [x] Cancelamento de consultas;
+- [x] Autenticação e Autorização com Json Web Token.
 
 ---
 
