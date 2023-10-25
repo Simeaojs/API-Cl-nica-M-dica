@@ -5,13 +5,18 @@ A API da Clínica Médica é um sistema de gerenciamento de informações médic
 
 ---
 
-## ⚙️ Funcionalidades
+## 🛠 Tecnologias
 
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [x] Agendamento de consultas;
-- [x] Cancelamento de consultas;
-- [x] Autenticação e Autorização com Json Web Token.
+As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+
+- **[Java 17](https://www.oracle.com/java)**
+- **[Spring Boot 3](https://spring.io/projects/spring-boot)**
+- **[Maven](https://maven.apache.org)**
+- **[MySQL](https://www.mysql.com)**
+- **[Hibernate](https://hibernate.org)**
+- **[Flyway](https://flywaydb.org)**
+- **[Lombok](https://projectlombok.org)**
+- **[Spring Security](https://spring.io/projects/spring-security)**
 
 ---
 
@@ -27,18 +32,14 @@ A documentação das funcionalidades da aplicação pode ser acessada neste link
 
 ---
 
-## 🛠 Tecnologias
 
-As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do projeto:
+- ## ⚙️ Funcionalidades
 
-- **[Java 17](https://www.oracle.com/java)**
-- **[Spring Boot 3](https://spring.io/projects/spring-boot)**
-- **[Maven](https://maven.apache.org)**
-- **[MySQL](https://www.mysql.com)**
-- **[Hibernate](https://hibernate.org)**
-- **[Flyway](https://flywaydb.org)**
-- **[Lombok](https://projectlombok.org)**
-- **[Spring Security](https://spring.io/projects/spring-security)**
+- [x] CRUD de médicos;
+- [x] CRUD de pacientes;
+- [x] Agendamento de consultas;
+- [x] Cancelamento de consultas;
+- [x] Autenticação e Autorização com Json Web Token.
 
 ---
 
