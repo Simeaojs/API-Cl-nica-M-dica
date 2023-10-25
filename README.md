@@ -36,14 +36,17 @@ Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina lo
 - [x] Agendamento de consultas;
 - [x] Cancelamento de consultas;
 - [x] Autenticação e Autorização com Json Web Token.
-
----
+      
 
 ## 🎨 Layout
 
 O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+#
 
----
+## 🌱Contribuição
+
+Contribuições são bem-vindas! Se você identificar problemas ou melhorias, sinta-se à vontade para abrir um pull request.
+#
 
 ## 📝 Licença
 
