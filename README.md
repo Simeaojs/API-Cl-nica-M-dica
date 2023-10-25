@@ -17,6 +17,8 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 - **[Lombok](https://projectlombok.org)**
 - **[Spring Security](https://spring.io/projects/spring-security)**
 - **[Swagger](https://swagger.io/solutions/api-documentation/)**
+- **[JUnit5](https://junit.org/junit5/)**
+- **[Mockito](https://site.mockito.org/)**
 
 ---
 
@@ -37,7 +39,7 @@ Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina lo
 - [x] Agendamento de consultas;
 - [x] Cancelamento de consultas;
 - [x] Autenticação e Autorização com Json Web Token.
-- [x] Testes Automatizados 
+- [x] Testes Automatizados nas classes `Consultacontroller` / `Medicocontroller` / `MedicoRepository`
       
 
 ## 🎨 Layout
