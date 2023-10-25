@@ -20,6 +20,17 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ---
 
+## 🪛Configuração do Ambiente
+Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina local, siga as etapas abaixo:
+
+1. Clone o repositório para o seu ambiente local.
+   -  git clone ``````
+2. Configure as dependências do projeto (Maven).
+3. Configure as informações do banco de dados no arquivo de configuração (`application.properties` ou `application.yml`).
+4. Execute a aplicação.
+#
+
+
 ## 🎨 Layout
 
 O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
