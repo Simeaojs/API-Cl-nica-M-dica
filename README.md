@@ -2,7 +2,6 @@
 
 A API da Clínica Médica é um sistema de gerenciamento de informações médicas que oferece funcionalidades para criar, ler, atualizar e excluir registros de médicos, pacientes, agendamento de consultas e cancelamentos. Esta API é projetada para auxiliar na administração eficiente de uma clínica médica, permitindo o controle de informações essenciais com segurança e facilidade de uso.
 
-
 ---
 
 ## 🛠 Tecnologias
@@ -30,15 +29,7 @@ Para configurar o ambiente de desenvolvimento e iniciar a API em sua máquina lo
 4. Execute a aplicação.
 #
 
-
-## 🎨 Layout
-
-O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
-
----
-
-
-- ## ⚙️ Funcionalidades
+## ⚙️ Funcionalidades
 
 - [x] CRUD de médicos;
 - [x] CRUD de pacientes;
@@ -48,10 +39,14 @@ O layout da aplicação mobile está disponível neste link: <a href="https://ww
 
 ---
 
+## 🎨 Layout
+
+O layout da aplicação mobile está disponível neste link: <a href="https://www.figma.com/file/N4CgpJqsg7gjbKuDmra3EV/Voll.med">Figma</a>
+
+---
+
 ## 📝 Licença
 
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
-
-Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira) 
+Projeto desenvolvido na formação de Spring Boot da  [Alura](https://www.alura.com.br) 
 
 ---
