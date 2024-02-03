@@ -49,7 +49,7 @@ O layout da aplicação mobile está disponível neste link: <a href="https://ww
 
 ## 🌱Contribuição
 
-Contribuições são bem-vindas! Se você identificar problemas ou melhorias, sinta-se à vontade para abrir um pull request.
+Contribuições são bem-vindas! Se você identificar problemas ou melhorias, sinta-se à vontade para abrir um pull request..
 #
 
 ## 📝 Licença
